@@ -1,7 +1,7 @@
 'use strict';
 const React = require('react');
 const ReactDOM = require('react-dom');
-const Main = require('./components/Main');
+import Main from './components/Main';
 
 class App extends React.Component {
   render() {
